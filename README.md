@@ -1,6 +1,6 @@
 # moviesapp
 
-Um aplicativo onde você pode ver sinopse sobre seu filmes favoritos e ficar por dentro dos filmes mais populares, e votados.
+Um aplicativo onde você pode ver sinopse sobre seu filmes favoritos e ficar por dentro dos filmes mais populares, e votados. Esse aplicativo utiliza api da [themoviedb](https://www.themoviedb.org/)
 
 ![Pagina Home](https://github.com/SamuelLima60/moviesapp/blob/main/img/homePageScreenshot.png)  
 
@@ -16,7 +16,8 @@ Um aplicativo onde você pode ver sinopse sobre seu filmes favoritos e ficar por
 ## Instruções de configuração
  1. Clone o repositório do GitHub para seu computador usando o comando ```git clone https://github.com/SamuelLima60/movieapp.git```
  2. Abra o projeto no Visual Studio Code ou na IDE de sua escolha.
- 3. Instale as dependências necessárias executando o comando ```flutter pub get``` no terminal.
+ 3. Adiciona sua apiKey no arquivo ```lib/constants/movies_constants.dart```
+ 4. Instale as dependências necessárias executando o comando ```flutter pub get``` no terminal.
  
 ## Iniciando o aplicativo
  1. Conecte seu dispositivo móvel ou inicie um emulador.
