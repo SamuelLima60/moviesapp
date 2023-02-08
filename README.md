@@ -1,16 +1,24 @@
 # moviesapp
 
-A new Flutter project.
+Um aplicativo onde você pode ver sinopse sobre seu filmes favoritos e ficar por dentro dos filmes mais populares, e votados.
 
-## Getting Started
+![Pagina Home](https://github.com/SamuelLima60/moviesapp/blob/main/img/homePageScreenshot.png)  
 
-This project is a starting point for a Flutter application.
+![Pagina Ver Mais](https://github.com/SamuelLima60/moviesapp/blob/main/img/moviesDetailsPageScreenShot.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Pagina de Detalhes](https://github.com/SamuelLima60/moviesapp/blob/main/img/viewSeeMoreScreenShot.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requisitos prévios
+ - Flutter SDK instalado em seu computador
+ - Visual Studio Code ou outra IDE de sua escolha
+ - Conhecimento básico de programação em Dart
+ 
+## Instruções de configuração
+ 1. Clone o repositório do GitHub para seu computador usando o comando ```git clone https://github.com/SamuelLima60/movieapp.git```
+ 2. Abra o projeto no Visual Studio Code ou na IDE de sua escolha.
+ 3. Instale as dependências necessárias executando o comando ```flutter pub get``` no terminal.
+ 
+## Iniciando o aplicativo
+ 1. Conecte seu dispositivo móvel ou inicie um emulador.
+ 2. Clique no botão "Run" ou pressione F5 para iniciar o aplicativo.
+ 
